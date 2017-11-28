@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My App</title>
+
+        <style>
+        #header {
+        	 width: 100%;
+    		background-color: yellow;
+   	    	height: 62px;
+    		position: fixed;
+    		
+        }
+        #header > p {
+        	 margin: 8px;
+    		color: black;
+    		font: 24px times;
+    		text-align: center;
+        }
+        </style>
+    </head>
+    <body>
+    <div id="header">
+    <p><a href="alex.html">Best Italian recipes</p></a><br><br>
+        
+    <h2>Spaghetti Cacio e Pepe</h2>
+
+
+     <img src="Spaghetti Cacio e Pepe.jpg" alt="Spaghetti Cacio e Pepe" height="150" width="250">   <h5>READY IN: 23mins &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SERVES: 4 </h5>
+    
+
+     <h3>Ingredients</h3><hr>
+1 pound spaghetti<br> 
+6 tablespoons olive oil <br>
+2 cloves garlic, minced<br>
+2 teaspoons ground black pepper<br> 
+1 3/4 cups grated Pecorino Romano cheese<br>
+
+
+
+
+<h3>Directions</h3><hr>
+
+
+Bring a large pot of lightly salted water to a boil. <br>Cook spaghetti in the boiling water, stirring occasionally until tender yet firm to the bite, about 10 minutes.<br> Scoop out some of the cooking water and reserve.<br> Drain spaghetti.
+Heat oil in a large skillet over medium heat. <br>Add garlic and pepper; cook and stir until fragrant, 1 to 2 minutes.<br> Add spaghetti and Pecorino Romano cheese.<br> Ladle in 1/2 cup of reserved cooking water; stir until cheese is melted, about 1 minute.<br> Add more cooking water until sauce coats spaghetti, about 1 minute more.
+
+
